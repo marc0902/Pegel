@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Pegel</string>
+    <string name="app_name">PegelVergleich</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="textabove">Pegelvergleich:</string>
+    <string name="button1">PegelOnline</string>
 
 </resources>
